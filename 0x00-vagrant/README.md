@@ -19,14 +19,14 @@ without the help of Google:
 File|Task
 ---|---
 
-0-hello_ubuntu
+0-hello_ubuntu What does the command uname print when you run it without any option
 
 
 ## Directories
 ---
 Directory Name | Description
 ---|---
-holbertonschool-zero_day/ 
+holbertonschool-zero_day/ set-up exercises
 
 
 
